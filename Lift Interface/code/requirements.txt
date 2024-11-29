@@ -1,0 +1,5 @@
+numpy
+pyaudio
+pyttsx3
+tobii-research
+vosk
